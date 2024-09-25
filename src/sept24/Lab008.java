@@ -3,7 +3,7 @@ package sept24;
 public class Lab008 {
     public static void main(String[] args)
     {
-        int num=10;
+        int num=50;
         System.out.printf("%d * %d = %d",num,1,num*1);
         System.out.println();
         System.out.printf("%d * %d = %d",num,2,num*2);

@@ -7,5 +7,6 @@ public class Lab013 {
         System.out.println(Math.sin(30));
         System.out.println(Math.sin(60));
         System.out.println(Math.tan(45));
+
     }
 }
