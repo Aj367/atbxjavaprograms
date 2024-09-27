@@ -1,6 +1,6 @@
-package sept.ex_23092024;
+package sept.ex_16092024;
 
-public class Lab089 {
+public class Lab038_rng {
     public static void main(String[] args) {
 
     }

@@ -1,6 +1,6 @@
-package sept.ex_25092024;
+package sept.ex_27092024;
 import java.util.Scanner;
-public class Lab114 {
+public class Lab115 {
     public static void main(String[] args) {
         // How to take a use input
         //
