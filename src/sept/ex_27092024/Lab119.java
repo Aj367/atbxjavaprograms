@@ -11,5 +11,13 @@ public class Lab119 {
             System.out.println("can vote");
             age++;
         }
+        int a = 10;
+        if (a < 20) {
+            System.out.println("print a");
+        } else
+            System.out.println("print not a");
     }
-}
+
+    }
+
+
